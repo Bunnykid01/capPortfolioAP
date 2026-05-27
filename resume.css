@@ -85,12 +85,11 @@ h2, p {
  ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 20;
   overflow: hidden;
   background-color: #d7d7f7;
   display: flex;
   font-size: 15px;
-   
 }o
 ul li {
   float: left;
@@ -101,11 +100,12 @@ ul li a {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 35px 16px;
   text-decoration: none;
-  text-indent: 10px;
+  text-indent: 40px;
 }
 
 ul li a:hover {
   background-color: pink;
 }
+
